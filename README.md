@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chavan-santosh/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chavansm97@gmail.com)
-[![Location](https://img.shields.io/badge/Mumbai%2C_India-1A56A0?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Mumbai)
+[![Location](https://img.shields.io/badge/Pune%2C_India-1A56A0?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Pune)
 
 </div>
 
